@@ -25,21 +25,17 @@ Unlock the full potential of music: Stream effortlessly with one app!
 
 <center>
 
-Online song search with suggestions <br/>
-Offline listening support <br/>
+Online Host videos <br/>
+Offline playback support <br/>
 Import & export your data and never lose it <br/>
 Optional local-network sync between your devices <br/>
 Add custom playlists with link <br/>
 Listening Recaps <br/>
-Spotify playlist import <br/>
-Radio stations <br/>
+File import <br/>
 Optimized sound experience <br/>
-SponsorBlock support <br/>
-Lyrics support <br/>
 No ads <br/>
 No subscriptions <br/>
 Built-in updater <br/>
-Built-in equalizer with presets <br/>
 21 supported languages <br/>
 Material UI & accent colors & dynamic colors (Android 12+) <br/>
 
@@ -69,9 +65,7 @@ Material UI & accent colors & dynamic colors (Android 12+) <br/>
 ## Download
 
 
-[<img src="(https://github.com/gokadzev/Musify/raw/master/.github/assets/get-it-on-github.png)" alt="Get it on Github" height="80">](https://github.com/Leader-Ofc-Dev/Leader-Cast-Tv/)
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on Fdroid" height="80">](https://github.com/Leader-Ofc-Dev/Leader-Cast-Tv/)
-
+Android Apk will develop...
 
 ---
 
