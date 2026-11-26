@@ -89,7 +89,7 @@ You can see frequently asked questions and their answers [here](https://github.c
 
 ## Credits
 
-[Musify](https://github.com/Leader-Ofc-Dev/Leader-Cast-Tv/) - Original inspiration for the concept and name. It is now completely reimplemented with new design and branding.
+[Leader Cast Tv](https://github.com/Leader-Ofc-Dev/Leader-Cast-Tv/) - Original inspiration for the concept and name. It is now completely reimplemented with new design and branding.
 
 
 ---
@@ -97,9 +97,9 @@ You can see frequently asked questions and their answers [here](https://github.c
 ## License
 
 ```
-Copyright © 2026 Valeri Gokadze
+Copyright © 2026 LeaderDev
 
-Musify is free software licensed under GPL v3.0. You may use, modify, and distribute
+LeaderCast is free software licensed under GPL v3.0. You may use, modify, and distribute
 this software freely, but must keep the source code open and publicly available, retain
 all copyright notices, disclose all changes made, and use the same GPL v3.0 license.
 
@@ -113,9 +113,9 @@ See the [GNU General Public License](https://github.com/Leader-Ofc-Dev/Leader-Ca
 ## Disclaimer
 
 ```
-Musify and its contributors do not host, own, or distribute any copyrighted audio content.
+LeaderCast and its contributors do not host, own, or distribute any copyrighted audio content.
 The app provides access to content through plugins and external sources. All trademarks, songs, audio files, and related content remain the property of their respective owners and are protected by applicable copyright laws.
 Included plugins are provided for interoperability and educational purposes only. Users are solely responsible for ensuring that their use of the app complies with local laws, copyright regulations, and the terms of service of the respective content providers.
-The developers of Musify do not encourage or endorse copyright infringement and assume no liability for misuse of the software or third-party plugins.
+The developers of LeaderCast do not encourage or endorse copyright infringement and assume no liability for misuse of the software or third-party plugins.
 ```
 ---
