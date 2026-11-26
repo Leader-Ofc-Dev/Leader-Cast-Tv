@@ -13,7 +13,7 @@ Unlock the full potential of music: Stream effortlessly with one app!
 
 ---
 
-<a href="https://ko-fi.com/gokadzev" target="_blank" title="ko-fi">
+<a href="https://github.com/Leader-Ofc-Dev/" target="_blank" title="ko-fi">
   <img src="https://github.com/user-attachments/assets/1c204507-d124-4b34-878b-96c39c9bb3f8"  alt="ko-fi badge" style="width: 150px;">
 </a>
 
@@ -69,7 +69,7 @@ Material UI & accent colors & dynamic colors (Android 12+) <br/>
 ## Download
 
 
-[<img src="(https://github.com/Leader-Ofc-Dev/Leader-Cast-Tv/)" alt="Get it on Github" height="80">](https://github.com/Leader-Ofc-Dev/Leader-Cast-Tv/)
+[<img src="(https://github.com/gokadzev/Musify/raw/master/.github/assets/get-it-on-github.png)" alt="Get it on Github" height="80">](https://github.com/Leader-Ofc-Dev/Leader-Cast-Tv/)
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on Fdroid" height="80">](https://github.com/Leader-Ofc-Dev/Leader-Cast-Tv/)
 
 
