@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/gokadzev/Musify/raw/master/.github/assets/Musify-banner.png" width="100%">
+<img src="Src/file_00000000b1b48208a42234b5a8333699.png" width="100%">
 
 # LEADER CAST
 
