@@ -51,7 +51,7 @@ Material UI & accent colors & dynamic colors (Android 12+) <br/>
 ## Screenshots
 
 | ![Screenshot 1](Src/Screenshot_2026_1126_203618.png) 
-|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------|
 
 ---
 
@@ -69,8 +69,8 @@ Material UI & accent colors & dynamic colors (Android 12+) <br/>
 ## Download
 
 
-[<img src="https://github.com/gokadzev/Musify/raw/master/.github/assets/get-it-on-github.png" alt="Get it on Github" height="80">](https://github.com/gokadzev/Musify/releases/latest)
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on Fdroid" height="80">](https://f-droid.org/packages/com.gokadzev.musify.fdroid)
+[<img src="(https://github.com/Leader-Ofc-Dev/Leader-Cast-Tv/)" alt="Get it on Github" height="80">](https://github.com/Leader-Ofc-Dev/Leader-Cast-Tv/)
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on Fdroid" height="80">](https://github.com/Leader-Ofc-Dev/Leader-Cast-Tv/)
 
 
 ---
@@ -89,13 +89,13 @@ Special thanks to all contributors for their time and effort.
 
 ## F.A.Q
 
-You can see frequently asked questions and their answers [here](https://github.com/gokadzev/Musify/discussions/728).
+You can see frequently asked questions and their answers [here](https://github.com/Leader-Ofc-Dev/Leader-Cast-Tv/).
 
 ---
 
 ## Credits
 
-[Musify](https://github.com/Harsh-23/Musify) - Original inspiration for the concept and name. It is now completely reimplemented with new design and branding.
+[Musify](https://github.com/Leader-Ofc-Dev/Leader-Cast-Tv/) - Original inspiration for the concept and name. It is now completely reimplemented with new design and branding.
 
 
 ---
@@ -112,7 +112,7 @@ all copyright notices, disclose all changes made, and use the same GPL v3.0 lice
 Prohibited: Closed-source distributions or commercial redistribution of modified versions.
 ```
 
-See the [GNU General Public License](https://github.com/gokadzev/Musify/blob/master/LICENSE) for full details.
+See the [GNU General Public License](https://github.com/Leader-Ofc-Dev/Leader-Cast-Tv/) for full details.
 
 ---
 
