@@ -1,9 +1,7 @@
 <div align="center">
-  <img src="Src/banner.png" width="100%" alt="LEADER CAST TV Banner">
+  <img src="Src/file_00000000b1b48208a42234b5a8333699.png" width="100%" alt="LEADER CAST TV Banner">
 </div>
 
-<div align="center">
-<img src="Src/file_00000000b1b48208a42234b5a8333699.png" width="100%">
 
 # LEADER CAST
 
